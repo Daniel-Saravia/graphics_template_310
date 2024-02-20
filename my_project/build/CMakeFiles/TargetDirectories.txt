@@ -1,0 +1,3 @@
+/home/parallels/Desktop/graphics/template4graphics/my_project/build/CMakeFiles/my_opengl_project.dir
+/home/parallels/Desktop/graphics/template4graphics/my_project/build/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/graphics/template4graphics/my_project/build/CMakeFiles/rebuild_cache.dir
